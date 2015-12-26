@@ -1,6 +1,6 @@
 name: Brisbane Barre Studio
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.65382
 typography_spectrum: 0.67678
 title: Brisbane Barre Studio
 cta:
@@ -23,7 +23,7 @@ color:
     - '#c2c2c2'
     - '#727272'
   brandStrength: 1
-  lightness: 0.6812936102505773
-  saturation: 0.4763342223595828
-  rhythmicContrast: 0.23417649394832551
+  lightness: 0.5625
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []
